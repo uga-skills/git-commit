@@ -26,7 +26,6 @@ description: ステージング済みの変更を見てコミットを試みる�
      EOF
      gpgconf --kill gpg-agent
      ```
-     On macOS, also suggest `brew install pinentry-mac`
    - Return ready-to-run commit command in a code block
 
 ## Commit message
