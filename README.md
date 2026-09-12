@@ -1,7 +1,7 @@
 ---
 トークン使用量推定値:
-  1回あたり: 357
-  エンコーディング: "cl100k_base"
+  1回あたり: 529
+  計測方法: "Anthropic Messages API count_tokens (claude-sonnet-5)"
 ---
 
 # git-commit
