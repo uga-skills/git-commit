@@ -1,7 +1,7 @@
 ---
 トークン使用量推定値:
-  1回あたり: 529
-  計測方法: "Anthropic Messages API count_tokens (claude-sonnet-5)"
+  1回あたり: 486
+  計測方法: "Anthropic Messages API count_tokens (claude-sonnet-4-5-20250929)"
 ---
 
 # git-commit
